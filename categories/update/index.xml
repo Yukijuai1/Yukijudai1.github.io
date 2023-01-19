@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UPDATE on 【Kaede Yuki】</title>
+    <link>http://Yukijudai1.github.io/categories/update/</link>
+    <description>Recent content in UPDATE on 【Kaede Yuki】</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-cn</language>
+    <lastBuildDate>Sun, 15 Jan 2023 09:40:07 +0800</lastBuildDate>
+    
+	<atom:link href="http://Yukijudai1.github.io/categories/update/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>测试</title>
+      <link>http://Yukijudai1.github.io/update/%E6%B5%8B%E8%AF%95/</link>
+      <pubDate>Sun, 15 Jan 2023 09:40:07 +0800</pubDate>
+      
+      <guid>http://Yukijudai1.github.io/update/%E6%B5%8B%E8%AF%95/</guid>
+      <description>2022/6/24讨论 ·产出 ①ppt+结项报告
+②基于TPCM的知识图谱平台
+前端：wiki+openkg
+后端：vTPM
+·关键时间点 ①2022年11月中~11月底 中期审查
+②2022年11月底~12月初 大创科普沙龙
+③2023年5月中~5月底 结项审查+项目巡展
+评分：立项成绩(82.67)$\times$10%+中期审查$\times$10%+科普沙龙$\times$5%+结题审查$\times$60%+巡展成绩$\times$10%+成果产出$\times$5%
+·当前任务 ①基本知识
+·Linux虚拟机的搭建和使用
+相关教程：VMware16的安装及VMware配置Linux虚拟机(详解版)
+​	VScode ssh远程连接
+练习方法：nemu
+·计算机系统基础
+相关教程：CSAPP 深入理解计算机系统 课程视频
+​	从0到1设计一台计算机
+练习方法：当年的期末复习材料拿出来做做
+·操作系统原理
+相关教程：天津大学-李罡-操作系统原理-2018
+练习方法：当年的期末复习材料拿出来做做
+②TPCM相关
+相关教程：TCM、TPM、TPCM
+​	vTPM环境部署(ubuntu)
+练手方法：
+（1）TPM Emulator 开源地址：https://github.com/PeterHuewe/tpm-emulator 不需要实际TPM芯片就可以通过软件提供可信平台模块的功能，可以在Windows和Linux上进行编译后使用，建议和可信软件栈TROUSERS一起使用。
+（2）可信软件栈TROUSERS 开源地址：http://sourceforge.net/projects/trousers IBM实现的一套开源软件栈，是Linux下进行可信计算应用开发的主要接口。
+（3）IBM Software TPM 开源地址：http://ibmswtpm.sourceforge.net/ 提供了一全套实践可信计算的软件工具：包含软件TPM模拟器、libtpm库（类似可信软件栈TSS）、实例命令（用C语言写，可以直接访问TPM命令接口，测试可信计算的功能），而且通过提供的TPM Proxy代理可以去实际TPM芯片、以及其他软件模拟的TPM Emulator进行通信
+③前端相关
+·HTML+CSS+JS
+教程：【极客学院】Web前端开发教学 - 第一部分：H5+CSS+JS
+练习方法：50Project
+④知识图谱相关
+·MediaWiki
+教程：
+[Media wiki/Semantic Media wiki]系列01（插件操作与安装）
+【MediaWiki之windows安装】MediaWiki创建与基础使用指南
+·Neo4j
+教程：Neo4j：入门基础（一）之安装与使用
+import pandas as pd print(&amp;#34;hello world&amp;#34;) </description>
+    </item>
+    
+    <item>
+      <title>说明文档</title>
+      <link>http://Yukijudai1.github.io/update/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3/</link>
+      <pubDate>Sat, 14 Jan 2023 09:40:07 +0800</pubDate>
+      
+      <guid>http://Yukijudai1.github.io/update/%E8%AF%B4%E6%98%8E%E6%96%87%E6%A1%A3/</guid>
+      <description>说明文档 本站是一个基于 Hugo  的个人博客，主要内容包括：
+ TA翻译。每日（尽量）从 The Athletic  中选取一篇文章并翻译，注明其中的生僻单词和不常见语法 锐评。评价电影和书籍等，纯个人观点 学习。个人学习过程中记录的感悟和笔记 其他（构思中）  本站部分图片、视频可能需要翻墙才能打开。VPN请自行获取
+感谢阅读与支持！ </description>
+    </item>
+    
+  </channel>
+</rss>
