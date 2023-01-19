@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>STUDY on 【Kaede Yuki】</title>
-    <link>https://yukijuai1.github.io/categories/study/</link>
+    <link>/categories/study/</link>
     <description>Recent content in STUDY on 【Kaede Yuki】</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Tue, 17 Jan 2023 20:48:08 +0800</lastBuildDate>
     
-	<atom:link href="https://yukijuai1.github.io/categories/study/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/study/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>我的生产力工具分享</title>
-      <link>https://yukijuai1.github.io/study/stack/</link>
+      <link>/study/stack/</link>
       <pubDate>Tue, 17 Jan 2023 20:48:08 +0800</pubDate>
       
-      <guid>https://yukijuai1.github.io/study/stack/</guid>
+      <guid>/study/stack/</guid>
       <description>分享一下我个人截至目前的代码/科研学习全栈。
 Zoetero 经典文献管理器。能够自动导入文献，标记文献的年份、作者、摘要等信息，还有很多插件可以安装。装上PDF Translate插件后可以直接当PDF阅读器来用，基本的功能都有，翻译也很精准。
 优势：
