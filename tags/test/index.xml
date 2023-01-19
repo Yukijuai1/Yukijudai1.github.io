@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>test on 【Kaede Yuki】</title>
-    <link>https://yukijuai1.github.io/Yukijudai1.github.io/tags/test/</link>
+    <link>https://yukijuai1.github.io/tags/test/</link>
     <description>Recent content in test on 【Kaede Yuki】</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-cn</language>
     <lastBuildDate>Sun, 15 Jan 2023 09:40:07 +0800</lastBuildDate>
     
-	<atom:link href="https://yukijuai1.github.io/Yukijudai1.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://yukijuai1.github.io/tags/test/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>测试</title>
-      <link>https://yukijuai1.github.io/Yukijudai1.github.io/update/%E6%B5%8B%E8%AF%95/</link>
+      <link>https://yukijuai1.github.io/update/%E6%B5%8B%E8%AF%95/</link>
       <pubDate>Sun, 15 Jan 2023 09:40:07 +0800</pubDate>
       
-      <guid>https://yukijuai1.github.io/Yukijudai1.github.io/update/%E6%B5%8B%E8%AF%95/</guid>
+      <guid>https://yukijuai1.github.io/update/%E6%B5%8B%E8%AF%95/</guid>
       <description>2022/6/24讨论 ·产出 ①ppt+结项报告
 ②基于TPCM的知识图谱平台
 前端：wiki+openkg
